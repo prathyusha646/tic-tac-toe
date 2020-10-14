@@ -13,5 +13,5 @@ Tic-Tac-Toe game in Flutter.
   - Gesture Detector
 - :scroll: Created methods for Winner, Runner and Draws. 
   - Checks the rows, columns for the winner and runner. If the game is not over it gives an option to draw.
-  - After the completion of one round the result will be poped up and then we can play the game again.
+  - After the completion of one round the result will be popped up and then we can play the game again.
   
